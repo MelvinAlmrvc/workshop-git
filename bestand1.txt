@@ -1,3 +1,4 @@
-dit is een stuk text
-en dit is regel 2
-doen we nog een regel erbij
+dit is een stuk text.
+en dit is regel 2.
+doen we nog een regel erbij.
+regel 4 is bij deze een feit.
